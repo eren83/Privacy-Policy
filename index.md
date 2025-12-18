@@ -18,7 +18,7 @@ Uygulama geliştiricisi olarak bu veriler tarafımızca doğrudan işlenmemekte,
 
 Kullanıcılar, diledikleri zaman hesaplarını ve bu hesaba bağlı verileri silme hakkına sahiptir.
 
-**Nasıl Silinir?** Uygulama içerisindeki **yan menü(Drawer)** içinde yer alan "Hesabımı Sil" butonunu kullanarak hesabınızı kalıcı olarak kapatabilirsiniz.
+**Nasıl Silinir?** Uygulama içerisindeki **yan menü(Drawer)** içinde yer alan **"Hesabımı Sil"** butonunu kullanarak hesabınızı kalıcı olarak kapatabilirsiniz.
 
 Alternatif Yöntem: Hesap silme işlemiyle ilgili sorun yaşamanız durumunda, aşağıda belirtilen e-posta adresi üzerinden bizimle iletişime geçerek hesabınızın silinmesini talep edebilirsiniz.
 
